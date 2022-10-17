@@ -1,13 +1,8 @@
+// Your First C++ Program
+
 #include <iostream>
-#include <vector>
-#include <string>
 
-using namespace std;
-
-int main()
-{
-
-cout <<"hello world" <<endl;
-
-return 0;
+int main() {
+    std::cout << "estou puto";
+    return 0;
 }
